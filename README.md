@@ -1,5 +1,6 @@
 # smart-plant-monitor
-An IoT-based plant monitoring system that displays real-time Soil Moisture, Humidity &amp; Temperature on an OLED screen.
+#Smart Plant Monitoring System — ESP32 based multi-sensor project with automated irrigation, real-time OLED display, and proximity alert. Built in 1st year of engineering.
+
 
 Components used
 -Esp 32 microcontroller
